@@ -1,7 +1,9 @@
-epoch_1199.pt filter=lfs diff=lfs merge=lfs -text
-epoch_1399.pt filter=lfs diff=lfs merge=lfs -text
-epoch_199.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
 epoch_399.pt filter=lfs diff=lfs merge=lfs -text
 epoch_599.pt filter=lfs diff=lfs merge=lfs -text
 epoch_799.pt filter=lfs diff=lfs merge=lfs -text
 epoch_999.pt filter=lfs diff=lfs merge=lfs -text
+best-finetuned-weights.pt filter=lfs diff=lfs merge=lfs -text
+epoch_1199.pt filter=lfs diff=lfs merge=lfs -text
+epoch_1399.pt filter=lfs diff=lfs merge=lfs -text
+epoch_199.pt filter=lfs diff=lfs merge=lfs -text
